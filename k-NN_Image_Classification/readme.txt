@@ -1,4 +1,4 @@
-Step 1:
+# Step 1:
 
 First train the kNN model
 
@@ -8,7 +8,7 @@ python knn.py --dataset dataset/blocks
 
 The knn-model.pkl file is created
 
-Step 2:
+# Step 2:
 
 We have the trained model pickle file.
 
@@ -18,7 +18,7 @@ Then run the following command:
 
 python main.py
 
-Step 3: Results
+# Step 3: Results
 
 The result is self understandable.
 
