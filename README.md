@@ -1,1 +1,1 @@
-# AI-Demonstrator
+# Image Classifier: Using k-NN to Classify Images
